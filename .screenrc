@@ -1,0 +1,6 @@
+hardstatus string '%{= kG}[%{G}%H%{g}][%= %{= kw}%?%-Lw%?%{G}(%{W}%n*%f%t%?(%u)%?%{G})%{w}%?%+Lw%?%? %= %{g}][%m/%d %c]'
+hardstatus alwayslastline
+startup_message off
+defscrollback 10000
+escape ^Tt
+vbell off
